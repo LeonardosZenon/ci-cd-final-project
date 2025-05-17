@@ -1,0 +1,11 @@
+{
+        "auths": {
+                "https://index.docker.io/v1/": {
+                        "auth": "bGVvbmFyZG9zemVub246ZGNrcl9wYXRfMFo4amN4QkhTN3Y>
+                },
+                "us.icr.io": {
+                        "auth": "aWFtcmVmcmVzaDo=",
+                        "identitytoken": "eyJhbGciOiJydCJ9.eyJpYW1faWQiOiJpYW0tU>
+                }
+        }
+}
